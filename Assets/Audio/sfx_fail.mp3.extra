@@ -1,0 +1,22 @@
+[
+  {
+    "guid": {
+      "a": "8071effd-b123-509d-55bd-4fe45d996861",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "sfx_fail",
+    "version": "0.1.0",
+    "rttiType": "AudioAsset",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "mccState": "SUCCESS",
+    "objGuid": "",
+    "resourceFilePath": "D:\\Program Files\\EffectHouse\\Effect House\\Resources\\ask-ai\\game-assets\\sounds\\sfx_fail.mp3",
+    "references": []
+  }
+]

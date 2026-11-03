@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "df3492b9-0458-9b2c-30bc-8ac9707312a4",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "ResultCard",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "E:/HatGame/art/ResultCard.png",
+    "references": []
+  }
+]

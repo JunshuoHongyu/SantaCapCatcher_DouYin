@@ -1,0 +1,22 @@
+[
+  {
+    "guid": {
+      "a": "26122bb1-8c27-498d-8668-53d8be660acd",
+      "b": ""
+    },
+    "extraType": "ResItemJSScript",
+    "name": "Game2D",
+    "version": "0.1.0",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "objGuid": "",
+    "references": [],
+    "scriptAnnotation": [],
+    "needCompile": true,
+    "isUserScript": true
+  }
+]

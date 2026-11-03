@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2015",
+    "skipLibCheck": true,
+    "experimentalDecorators": true,
+    "strict": true,  
+    "allowJs": true,
+    "noEmitOnError": false,
+    "esModuleInterop": true,
+    "lib": ["es2015"],
+    "strictPropertyInitialization": false,
+    "types": [],
+    "baseUrl": "./Src",
+    "rootDir": "./Src",
+    "outDir": "./Out"
+  },
+  "exclude": [
+  ],
+  "include": [
+    "./Types/**/*.d.ts",
+    "./Src/**/*.ts"
+  ]
+}

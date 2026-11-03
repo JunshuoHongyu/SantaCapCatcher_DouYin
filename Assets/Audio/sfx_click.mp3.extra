@@ -1,0 +1,22 @@
+[
+  {
+    "guid": {
+      "a": "d5a1cefe-fdf8-b184-39b2-df07718f55bd",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "sfx_click",
+    "version": "0.1.0",
+    "rttiType": "AudioAsset",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "mccState": "SUCCESS",
+    "objGuid": "",
+    "resourceFilePath": "D:\\Program Files\\EffectHouse\\Effect House\\Resources\\ask-ai\\game-assets\\sounds\\sfx_click.mp3",
+    "references": []
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "ab2f6df3-f14c-631c-e2da-d8b36b194ade",
+      "b": ""
+    },
+    "extraType": "ResItemTimelineDY",
+    "name": "动画时间轴",
+    "timelineType": "EffectTimeline",
+    "isSelected": false,
+    "trackInfoArr": [],
+    "trackHeaderWidth": 500,
+    "tracksExpandedArr": [],
+    "kFrameTrackHeaderLabels": [],
+    "version": "0.1.0",
+    "rttiType": "TimelineAsset",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "objGuid": "",
+    "resourceFilePath": "D:\\Program Files (x86)\\Douyin AR\\Resources\\BuiltinResource\\InternalPlugins\\TimelineDY\\PluginResource\\timeline.timeline",
+    "references": []
+  }
+]

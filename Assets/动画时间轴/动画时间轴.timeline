@@ -1,0 +1,19 @@
+%YAML 1.1
+--- !ScriptCustomExternalObject &1
+name: !<str> 动画时间轴
+guid: {a: 5589311448591169095, b: 7754437425859615146}
+serializedProperty:
+  __class: ScriptSerializedProperty
+  name: !<str> ""
+  guid: {a: 5046361237388218697, b: 2603586865442757813}
+  properties:
+    __class: Map
+    __scriptClassName: !<str> TimelineAsset
+    durationMode: 0
+    fixedDuration: 0
+    frameRate: 30
+    m_enablePlayRange: false
+    m_playRangeBegin: 0
+    m_playRangeEnd: 0
+    muted: false
+    volume: 100

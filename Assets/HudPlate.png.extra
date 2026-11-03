@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "9838bc0c-4807-14f4-82a0-6c072bb03f8d",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "HudPlate",
+    "version": "0.2.0",
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "compressionType": 0,
+    "compressQuality": 0,
+    "compressMaxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "objGuid": "",
+    "resourceFilePath": "E:/HatGame/art/HudPlate.png",
+    "references": []
+  }
+]

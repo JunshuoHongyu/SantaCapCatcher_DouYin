@@ -1,0 +1,22 @@
+[
+  {
+    "guid": {
+      "a": "dcfecab6-f8d6-71a4-f0ac-1fe849593680",
+      "b": ""
+    },
+    "extraType": "ResItemJSScript",
+    "name": "GameManager",
+    "version": "0.1.0",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "objGuid": "",
+    "references": [],
+    "scriptAnnotation": [],
+    "needCompile": true,
+    "isUserScript": true
+  }
+]

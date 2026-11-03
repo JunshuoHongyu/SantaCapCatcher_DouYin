@@ -1,0 +1,19 @@
+[
+  {
+    "guid": {
+      "a": "6c377431-242a-cd27-466c-6045c53739c1",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "动画时间轴",
+    "version": "0.1.0",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": true
+    },
+    "objGuid": "",
+    "references": []
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "guid": {
+      "a": "b3a9f1c2-d4e5-4f60-9a7b-8c9d0e1f2a3b",
+      "b": ""
+    },
+    "extraType": "ResItemJSScript",
+    "name": "Vision",
+    "version": "0.1.0",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "objGuid": "",
+    "references": [],
+    "scriptAnnotation": [],
+    "needCompile": true,
+    "isUserScript": true
+  }
+]

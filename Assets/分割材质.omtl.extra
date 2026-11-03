@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "e4653f10-f919-6f10-86d1-5d50d9aeae3a",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "分割材质",
+    "version": "0.6.0",
+    "rttiType": "Material",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "objGuid": "",
+    "resourceFilePath": "D:\\Program Files (x86)\\Douyin AR\\Plugins\\SegmentationTexture@1.0.23-postmr-92fc6f4d0ed4137e965b9624378a97e7f413348e\\resources\\materials\\Default_Segmentation_Material.omtl",
+    "references": [
+      {
+        "propertyName": "_SegTex",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_MainTex",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      }
+    ],
+    "skinObjGuid": "Guid(5406816516351611702, 5332631054230422714)",
+    "currAuslVersion": "1.0.0"
+  }
+]

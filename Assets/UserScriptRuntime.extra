@@ -1,0 +1,19 @@
+[
+  {
+    "guid": {
+      "a": "62a018d4-3ba4-b1b7-5cf8-15a7e39d253d",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "UserScriptRuntime",
+    "version": "0.1.0",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "objGuid": "",
+    "references": []
+  }
+]

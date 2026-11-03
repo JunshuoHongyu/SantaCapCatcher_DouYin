@@ -1,0 +1,22 @@
+[
+  {
+    "guid": {
+      "a": "62815871-b29d-1a7c-a4bd-d904e82284b6",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "bgm_loop",
+    "version": "0.1.0",
+    "rttiType": "AudioAsset",
+    "authorizationInfo": "",
+    "extendedInfo": {
+      "isVisibleInInspector": true,
+      "hideInPanel": false,
+      "expandInPanel": false
+    },
+    "mccState": "SUCCESS",
+    "objGuid": "",
+    "resourceFilePath": "D:\\Program Files\\EffectHouse\\Effect House\\Resources\\ask-ai\\game-assets\\sounds\\bgm_loop.mp3",
+    "references": []
+  }
+]
